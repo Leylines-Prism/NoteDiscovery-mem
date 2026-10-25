@@ -298,7 +298,10 @@
     "auto_fill_note_title": "タイトルに日時を自動入力",
     "auto_fill_note_title_desc": "yyyymmddHHMMSS。Enterで確定、入力で置換。",
     "smart_scroll_sync": "スマートスクロール同期",
-    "smart_scroll_sync_desc": "見出し・画像・表をペイン間で揃えます。オフの場合は割合ベースのスクロール。"
+    "smart_scroll_sync_desc": "見出し・画像・表をペイン間で揃えます。オフの場合は割合ベースのスクロール。",
+    "your_notes": "あなたのノート",
+    "download_all_notes": "すべてのノートをダウンロード",
+    "download_all_notes_desc": "すべてのノートと添付ファイルを、保存されているそのままの形で1つの zip ファイルにまとめます。"
   },
   "homepage": {
     "title": "ホーム",

@@ -298,7 +298,10 @@
     "auto_fill_note_title": "Časovni žig v naslovu",
     "auto_fill_note_title_desc": "llllmmddUUMMSS. Enter potrdi, tipkanje zamenja.",
     "smart_scroll_sync": "Pametna sinhronizacija drsenja",
-    "smart_scroll_sync_desc": "Poravna naslove, slike in tabele med podoknoma. Izklopljeno: odstotkovno drsenje."
+    "smart_scroll_sync_desc": "Poravna naslove, slike in tabele med podoknoma. Izklopljeno: odstotkovno drsenje.",
+    "your_notes": "Vaši zapiski",
+    "download_all_notes": "Prenesi vse zapiske",
+    "download_all_notes_desc": "Vsi zapiski in priponke, natanko tako, kot so shranjeni, v eni datoteki zip."
   },
   "homepage": {
     "title": "Domov",

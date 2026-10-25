@@ -298,7 +298,10 @@
     "auto_fill_note_title": "Automatycznie uzupełnij tytuł znacznikiem czasu",
     "auto_fill_note_title_desc": "yyyymmddHHMMSS. Naciśnij Enter, aby zaakceptować, lub zacznij pisać, aby zastąpić.",
     "smart_scroll_sync": "Inteligentna synchronizacja przewijania",
-    "smart_scroll_sync_desc": "Wyrównuje nagłówki, obrazy i tabele między panelami. Po wyłączeniu stosowane jest przewijanie procentowe."
+    "smart_scroll_sync_desc": "Wyrównuje nagłówki, obrazy i tabele między panelami. Po wyłączeniu stosowane jest przewijanie procentowe.",
+    "your_notes": "Twoje notatki",
+    "download_all_notes": "Pobierz wszystkie notatki",
+    "download_all_notes_desc": "Wszystkie notatki i załączniki, dokładnie tak, jak są zapisane, w jednym pliku zip."
   },
   "homepage": {
     "title": "Strona główna",

@@ -298,7 +298,10 @@
     "auto_fill_note_title": "Título con marca de tiempo",
     "auto_fill_note_title_desc": "aaaammddHHMMSS. Intro acepta, escribe para reemplazar.",
     "smart_scroll_sync": "Sincronización inteligente",
-    "smart_scroll_sync_desc": "Alinea encabezados, imágenes y tablas entre paneles. Desactivado: desplazamiento por porcentaje."
+    "smart_scroll_sync_desc": "Alinea encabezados, imágenes y tablas entre paneles. Desactivado: desplazamiento por porcentaje.",
+    "your_notes": "Tus notas",
+    "download_all_notes": "Descargar todas las notas",
+    "download_all_notes_desc": "Todas las notas y adjuntos, tal como están guardados, en un solo archivo zip."
   },
   "homepage": {
     "title": "Inicio",

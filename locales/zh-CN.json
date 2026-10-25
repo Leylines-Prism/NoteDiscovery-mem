@@ -298,7 +298,10 @@
     "auto_fill_note_title": "用时间戳自动填充标题",
     "auto_fill_note_title_desc": "yyyymmddHHMMSS。Enter 接受，输入以替换。",
     "smart_scroll_sync": "智能滚动同步",
-    "smart_scroll_sync_desc": "在两个窗格间对齐标题、图片和表格。关闭时使用百分比滚动。"
+    "smart_scroll_sync_desc": "在两个窗格间对齐标题、图片和表格。关闭时使用百分比滚动。",
+    "your_notes": "你的笔记",
+    "download_all_notes": "下载所有笔记",
+    "download_all_notes_desc": "所有笔记和附件按原样保存在一个 zip 文件中。"
   },
   "homepage": {
     "title": "首页",

@@ -298,7 +298,10 @@
     "auto_fill_note_title": "Cím kitöltése időbélyeggel",
     "auto_fill_note_title_desc": "éééé.hh.nn.ÓÓ.PP.MM.",
     "smart_scroll_sync": "Intelligens görgetés",
-    "smart_scroll_sync_desc": "Összehangolja a címsorokat, képeket és táblázatokat a panelek között. Kikapcsolva: százalékos görgetés."
+    "smart_scroll_sync_desc": "Összehangolja a címsorokat, képeket és táblázatokat a panelek között. Kikapcsolva: százalékos görgetés.",
+    "your_notes": "A jegyzeteid",
+    "download_all_notes": "Összes jegyzet letöltése",
+    "download_all_notes_desc": "Az összes jegyzet és melléklet, pontosan úgy, ahogy tárolva vannak, egyetlen zip-fájlban."
   },
   "homepage": {
     "title": "Főoldal",

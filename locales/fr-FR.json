@@ -298,7 +298,10 @@
     "auto_fill_note_title": "Titre avec horodatage",
     "auto_fill_note_title_desc": "aaaammjjHHMMSS. Entrée accepte, tapez pour remplacer.",
     "smart_scroll_sync": "Synchronisation intelligente",
-    "smart_scroll_sync_desc": "Aligne titres, images et tableaux entre les volets. Désactivé : défilement en pourcentage."
+    "smart_scroll_sync_desc": "Aligne titres, images et tableaux entre les volets. Désactivé : défilement en pourcentage.",
+    "your_notes": "Vos notes",
+    "download_all_notes": "Télécharger toutes les notes",
+    "download_all_notes_desc": "Toutes les notes et leurs pièces jointes, telles qu'elles sont enregistrées, dans un seul fichier zip."
   },
   "homepage": {
     "title": "Accueil",

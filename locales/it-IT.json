@@ -298,7 +298,10 @@
     "auto_fill_note_title": "Compila titolo con timestamp",
     "auto_fill_note_title_desc": "aaaammddHHMMSS. Invio accetta, digita per sostituire.",
     "smart_scroll_sync": "Sincronizzazione intelligente",
-    "smart_scroll_sync_desc": "Allinea titoli, immagini e tabelle tra i pannelli. Disattivato: scorrimento percentuale."
+    "smart_scroll_sync_desc": "Allinea titoli, immagini e tabelle tra i pannelli. Disattivato: scorrimento percentuale.",
+    "your_notes": "Le tue note",
+    "download_all_notes": "Scarica tutte le note",
+    "download_all_notes_desc": "Tutte le note e gli allegati, così come sono salvati, in un unico file zip."
   },
   "homepage": {
     "title": "Home",
